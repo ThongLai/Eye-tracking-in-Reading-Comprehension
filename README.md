@@ -5,4 +5,4 @@ Developing an Anomaly Detection mechanism for the dataset where using the Local 
 
 The project required meticulous work to understand readers' eye movements and reading patterns. The dataset encompassed approximately 20 features, tracking various aspects of readers' eye movements, including fixation coordinates, durations, and directions.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7161032511345582080" height="835" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+https://www.linkedin.com/posts/minhhuyennguyen94_ccn-researchpowerhour-activity-7161032512658415618-3Hvu
